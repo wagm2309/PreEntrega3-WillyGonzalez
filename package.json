@@ -15,9 +15,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wagm2309/PreEntrega2-WillyGonzalez/issues"
+    "url": "https://github.com/wagm2309/PreEntrega3-WillyGonzalez/issues"
   },
-  "homepage": "https://github.com/wagm2309/PreEntrega2-WillyGonzalez#readme",
+  "homepage": "https://github.com/wagm2309/PreEntrega3-WillyGonzalez#readme",
   "devDependencies": {
     "node-sass": "^8.0.0",
     "nodemon": "^2.0.20"
