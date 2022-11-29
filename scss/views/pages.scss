@@ -1,0 +1,43 @@
+main .page-title-custom {
+  padding: auto;
+  margin: 1%;
+  color: $primary-color;
+}
+.text__page {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: auto;
+  text-align: justify;
+  margin: 1%;
+  color: $primary-color;
+}
+
+main .section-costum {
+  padding: auto;
+  .article-custom {
+    padding: 10 0 0 0;
+    margin: 1%;
+    .article-title-custom {
+      padding: 50 0 0 0;
+      color: $primary-color;
+    }
+    .article-title-custom {
+      padding: 50 0 0 0;
+      color: $primary-color;
+    }
+  }
+  .article-text-custom {
+    padding: auto;
+    text-align: justify;
+    margin: 1%;
+    color: $primary-color;
+  }
+  .image-custom {
+    border-radius: 10%;
+    margin: 30px;
+    padding: auto;
+    object-fit: cover;
+    width: 50%;
+  }
+}

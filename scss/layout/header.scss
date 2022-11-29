@@ -1,0 +1,42 @@
+.header-custom {
+  .bg-dark-custom {
+    background-color: $primary-color;
+  }
+  .header-logo-custom {
+    padding: auto;
+    object-fit: cover;
+    width: 100px;
+  }
+  .text-bg-dark-custom {
+    background-color: $primary-color;
+    color: $secondary-color;
+  }
+  .image-nav-custom {
+    border-radius: 10%;
+    margin: 1%;
+    padding: auto;
+    object-fit: cover;
+    height: 90%;
+    width: 100%;
+  }
+  .navbar-brand {
+    color: $secondary-color;
+    font-size: xx-large;
+    &:hover {
+      transform: translateY(5px);
+      transition: all 0.6s ease;
+      color: #788585;
+    }
+  }
+  .navbar-toggler {
+    background-color: #788585;
+    &:hover {
+      transform: translateY(-2px);
+      transition: all 0.2s ease;
+    }
+  }
+  li {
+    border-bottom: 1px solid rgb(58, 50, 50);
+  }
+}
+
